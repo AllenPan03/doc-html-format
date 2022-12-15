@@ -2,9 +2,9 @@
   "name": "doc-html-format",
   "displayName": "Doc-Html Format",
   "description": "Format the doc file converted to HTML",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher":"JunlinPan",
-  "icon":"logo.png",
+  "icon":"https://raw.githubusercontent.com/AllenPan03/doc-html-format/main/logo.png",
   "repository":"https://github.com/AllenPan03/doc-html-format",
   "engines": {
     "vscode": "^1.74.0"
