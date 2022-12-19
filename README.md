@@ -4,7 +4,7 @@ Format the doc file converted to HTML
 
 ## Features
 
-Format the doc file converted to HTML
+![](./functionIntroduction.gif)
 
 ## Requirements
 
